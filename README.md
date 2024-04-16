@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=random&height=280&section=header&text=JooHyun GitHub!&fontColor=ffffff&fontSize=90&fontAlignY=44" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=random&height=280&section=header&text=JooHyun&fontColor=ffffff&fontSize=90&fontAlignY=44" />
 
 </div>
 <div align=center>
@@ -30,8 +30,21 @@
 	<img src="https://img.shields.io/badge/Tomcat-F8DC75?style=flat&logo=ApacheTomcat&logoColor=white" />
 	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
 </div>
-  
+
+<br>
+<div align=center>
+	<p>🎨 SNS & Portfolio 🎨</p>
+</div>
+<div align=center>
+	<a href="https://dnnzd.tistory.com">
+		<img src="https://img.shields.io/badge/Blog-FF9800?style=flat&logo=Blogger&logoColor=white" />
+	</a>
+	<br>
+</div>
+
+<div align=center>
 <h3>📊 GitHub Stats 📊</h3>
+</div>
   
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eun-jin0910&count_private=true&hide=prs&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)  -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wngusv&show_icons=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
