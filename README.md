@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=b9d7ea&height=280&section=header&text=welcome&fontColor=ffffff&fontSize=90&fontAlignY=44" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=random&height=280&section=header&text=welcome&fontColor=ffffff&fontSize=90&fontAlignY=44" />
 
 <h3>✒ Blog ✒</h3>
 https://dnnzd.tistory.com/
