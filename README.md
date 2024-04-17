@@ -37,7 +37,7 @@
 </div>
 <div align=center>
 	<a href="https://dnnzd.tistory.com">
-		<img src="https://img.shields.io/badge/Tistory-FF9800?style=flat&logo=Blogger&logoColor=white" />
+		<img src="https://img.shields.io/badge/Tistory-FF9800?style=flat&logo=Tistory&logoColor=white" />
 	</a>
 	<br>
 </div>
