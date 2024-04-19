@@ -38,7 +38,7 @@
 
 <br>
 <div align=center>
-	<h3>📞 Contact 📞</h3>
+	<p>📞 Contact 📞</p>
 </div>
 <div align=center>
 	<a href="https://dnnzd.tistory.com">
