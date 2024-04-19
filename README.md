@@ -56,8 +56,6 @@
 
 
 ---
-
-<br>
 <div align=center>
 	<h3>🎨 Project 🎨</h3>
 </div>
