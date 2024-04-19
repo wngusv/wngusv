@@ -38,30 +38,16 @@
 	<img src="https://img.shields.io/badge/Tomcat-F8DC75?style=flat&logo=ApacheTomcat&logoColor=white" />
 	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
 </div>
----
+
 
 <br>
-<div align=center>
-	<h3>🎨 Project 🎨</h3>
----
 
-</div>
-<div align=center>
-	<a href="https://dnnzd.tistory.com">
-		<img src="https://img.shields.io/badge/Tistory-ff5949?style=flat&logo=Tistory&logoColor=white" />
-	</a>
-	<br>
-</div>
-
-
----
 
 <br>
 <div align=center>
 	<p>💻 Dev's Log 💻</p>
 </div>
 
----
 <div align=center>
 	<a href="https://dnnzd.tistory.com">
 		<img src="https://img.shields.io/badge/Tistory-ff5949?style=flat&logo=Tistory&logoColor=white" />
