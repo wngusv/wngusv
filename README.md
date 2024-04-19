@@ -4,13 +4,13 @@
 
 <div align="center">
 
---
+---
 
 </div>
 <div align=center>
 <h3>📚 Tech Stack 📚</h3> 
 	
---
+---
 	
  <p>✨ Platforms & Languages ✨</p>
 </div>
