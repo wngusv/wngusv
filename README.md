@@ -45,6 +45,9 @@
 		<img src="https://img.shields.io/badge/Tistory-ff5949?style=flat&logo=Tistory&logoColor=white" />
 	</a>
 	<br>
+	 api?name=bi-sz)](https://github.com/bi-sz/velog-readme-stats)
+[![Tistory's Card](https://github-readme-tistory-card.vercel.app/
+api?name=li-yo&theme=default)](https://dnnzd.tistory.com/)
 </div>
 
 ---
