@@ -61,6 +61,7 @@
 <div align=center>
 	<h3>🎨 Project 🎨</h3>
 </div>
+---
 <div align=center>
 	<a href="https://dnnzd.tistory.com">
 		<img src="https://img.shields.io/badge/Tistory-ff5949?style=flat&logo=Tistory&logoColor=white" />
