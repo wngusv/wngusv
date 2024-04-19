@@ -37,7 +37,7 @@
 </div>
 
 <br>
-<div align=center>
+**<div align=center>
 	<p>💻 Dev's Log 💻</p>
 </div>
 <div align=center>
@@ -47,7 +47,7 @@
 	<br>
 [![Tistory's Card](https://github-readme-tistory-card.vercel.app/
 api?name=li-yo&theme=default)](https://dnnzd.tistory.com/)
-</div>
+</div>**
 
 ---
 
