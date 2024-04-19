@@ -37,7 +37,7 @@
 </div>
 
 <br>
-**<div align=center>
+<div align=center>
 	<p>💻 Dev's Log 💻</p>
 </div>
 <div align=center>
@@ -45,9 +45,7 @@
 		<img src="https://img.shields.io/badge/Tistory-ff5949?style=flat&logo=Tistory&logoColor=white" />
 	</a>
 	<br>
-[![Tistory's Card](https://github-readme-tistory-card.vercel.app/
-api?name=li-yo&theme=default)](https://dnnzd.tistory.com/)
-</div>**
+
 
 ---
 
