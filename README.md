@@ -38,7 +38,7 @@
 
 <br>
 <div align=center>
-	<p>📞 Contact 📞</p>
+	<p>💻 Dev's Log 💻</p>
 </div>
 <div align=center>
 	<a href="https://dnnzd.tistory.com">
@@ -49,10 +49,9 @@
 
 ---
 
-
 <br>
 <div align=center>
-	<h3>🎨 Portfolio 🎨</h3>
+	<h3>🎨 Project 🎨</h3>
 </div>
 <div align=center>
 	<a href="https://dnnzd.tistory.com">
