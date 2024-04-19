@@ -3,7 +3,7 @@
 
 </div>
 <div align=center>
-	#📚 Tech Stack 📚
+## 📚 Tech Stack 📚
 	<p>✨ Platforms & Languages ✨</p>
 </div>
 <div align="center">
