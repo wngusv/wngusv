@@ -61,13 +61,9 @@
 </div>
 
 ---
-<div align=center>
-	<a href="https://dnnzd.tistory.com">
-		<img src="https://img.shields.io/badge/Tistory-ff5949?style=flat&logo=Tistory&logoColor=white" />
-	</a>
-	<br>
-</div>
-
+<p>💰 로또 프로그램</p>
+<p>🏃‍♂ 건강기록 프로그램</p>
+<p>🐶 반려견/ 유기견 웹페이지</p>
 ---
 
 <div align=center>
