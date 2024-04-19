@@ -84,7 +84,7 @@
 </div>
 
 ---
-
+<p>📩 EMAIL : dnnzd@naver.com </p>
 
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=deebff&height=100&section=footer)
