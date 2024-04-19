@@ -38,7 +38,21 @@
 
 <br>
 <div align=center>
-	<p>🎨 SNS & Portfolio 🎨</p>
+	<h3>📞 Contact 📞</h3>
+</div>
+<div align=center>
+	<a href="https://dnnzd.tistory.com">
+		<img src="https://img.shields.io/badge/Tistory-ff5949?style=flat&logo=Tistory&logoColor=white" />
+	</a>
+	<br>
+</div>
+
+---
+
+
+<br>
+<div align=center>
+	<h3>🎨 Portfolio 🎨</h3>
 </div>
 <div align=center>
 	<a href="https://dnnzd.tistory.com">
