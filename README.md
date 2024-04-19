@@ -60,8 +60,11 @@
 
 ---
 <p>💰 로또 프로그램</p>
+<br>
 <p>🏃‍♂ 건강기록 프로그램</p>
+<br>
 <p>🐶 반려견/ 유기견 웹페이지</p>
+<br>
 
 ---
 <div align=center>
@@ -75,6 +78,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwngusv&count_bg=%23B9D7EA&title_bg=%23555555&icon=smugmug.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 </div>
 
+<br>
 
 ---
 <div align=center>
@@ -83,6 +87,8 @@
 
 ---
 <p>📩 EMAIL : dnnzd@naver.com </p>
+
+<br>
 
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=deebff&height=100&section=footer)
