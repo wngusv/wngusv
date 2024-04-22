@@ -73,7 +73,7 @@
 
 ---
   
-<div style="display: flex;">
+<div style="row">
   <a href="https://github.com/ahma0" style="flex: 1;">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=wngusv&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   </a>
