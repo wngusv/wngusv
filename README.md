@@ -74,7 +74,7 @@
 ---
   
 <a href="https://github.com/ahma0">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=wngusv0&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=wngusv&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=wngusv&hide=c%23&layout=compact&langs_count=8&theme=radical"/>
 </a>
   
