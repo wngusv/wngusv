@@ -60,9 +60,11 @@
 
 ---
 <p>🐶 반려견/ 유기견 웹페이지</p>
+<a href="https://github.com/wngusv/HappyTogeDOG">HappyTogeDOG</a>
+
 <br>
 <p>🏃‍♂ 건강기록 프로그램</p>
-<a href="https://github.com/wngusv/Health-Record">GitHub</a>
+<a href="https://github.com/wngusv/Health-Record">활기록</a>
 <br>
 <p>💸 로또 프로그램</p>
 <br>
