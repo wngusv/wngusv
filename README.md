@@ -62,6 +62,7 @@
 <p>🐶 반려견/ 유기견 웹페이지</p>
 <br>
 <p>🏃‍♂ 건강기록 프로그램</p>
+<a href="https://github.com/wngusv/Health-Record">GitHub</a>
 <br>
 <p>💸 로또 프로그램</p>
 <br>
