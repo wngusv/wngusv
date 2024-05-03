@@ -8,11 +8,11 @@
 
 </div>
 <div align=center>
-<h3>📚 Tech Stack 📚</h32> 
+<h3>📚 Tech Stack 📚</h3> 
 	
 ---
 	
- <p>✨ Platforms & Languages ✨</p>
+<h3>✨ Platforms & Languages ✨</h3>
 </div>
 <div align="center">
 	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Conda-Forge&logoColor=white" />
@@ -29,7 +29,7 @@
 </div>
 <br>
 <div align=center>
-	<p>🛠 Tools 🛠</p>
+	<h3>🛠 Tools 🛠</h3>
 </div>
 <div align=center>
 	<img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat&logo=EclipseIDE&logoColor=white" />
@@ -59,8 +59,8 @@
 </div>
 
 ---
-<p>🐶 반려견/ 유기견 웹페이지 🐶<br>
-	- 지역 기반의 반려견 및 유기견 종합 웹앱 -
+<h3>🐶 반려견/ 유기견 웹페이지 🐶</h3><br>
+	<p>- 지역 기반의 반려견 및 유기견 종합 웹앱 -
 	<br>
 <a href="https://github.com/wngusv/HappyTogeDOG">HappyTogeDOG</a></p>
 
