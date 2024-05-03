@@ -59,7 +59,7 @@
 </div>
 
 ---
-<h3>🐶 반려견/ 유기견 웹페이지 🐶</h3><br>
+<h3>🐶 반려견/ 유기견 웹페이지 🐶</h3>
 	<p>- 지역 기반의 반려견 및 유기견 종합 웹앱 -
 	<br>
 <a href="https://github.com/wngusv/HappyTogeDOG">HappyTogeDOG</a></p>
