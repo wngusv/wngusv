@@ -60,15 +60,18 @@
 
 ---
 <p>🐶 반려견/ 유기견 웹페이지 🐶
+	- 지역 기반의 반려견 및 유기견 종합 웹앱 -
 	<br>
 <a href="https://github.com/wngusv/HappyTogeDOG">HappyTogeDOG</a></p>
 
 <br>
 <p>🏃‍♂ 건강기록 프로그램 🏃‍♂
+	- 데이터베이스를 활용한 건강관리 기록 프로그램 -
 	<br>
 <a href="https://github.com/wngusv/Health-Record">활기록</a></p>
 <br>
 <p>💸 로또 프로그램 💸
+- JAVA를 이용한 가상 로또 추첨 프로그램 -
 	<br>
 <a href="https://github.com/wngusv/Health-Record">로또 프로그램</a></p>
 <br>
