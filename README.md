@@ -73,7 +73,7 @@
 <p>💸 로또 프로그램 💸<br>
 - JAVA를 이용한 가상 로또 추첨 프로그램 -
 	<br>
-<a href="https://github.com/wngusv/Health-Record">로또 프로그램</a></p>
+<a href="https://github.com/kimgayoung0114/LottoProgram">로또 프로그램</a></p>
 <br>
 <p>🕍 호텔관리 프로그램 🕍<br>
 	- JAVA 콘솔창을 활용한 호텔 관리 프로그램 -
