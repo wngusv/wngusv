@@ -65,18 +65,18 @@
 <a href="https://github.com/wngusv/HappyTogeDOG">HappyTogeDOG</a></p>
 
 <br>
-<p>🏃‍♂ 건강기록 프로그램 🏃‍♂<br>
-	- 데이터베이스를 활용한 건강관리 기록 프로그램 -
+<h3>🏃‍♂ 건강기록 프로그램 🏃‍♂</h3>
+	<p>- 데이터베이스를 활용한 건강관리 기록 프로그램 -
 	<br>
 <a href="https://github.com/wngusv/Health-Record">활기록</a></p>
 <br>
-<p>💸 로또 프로그램 💸<br>
-- JAVA를 이용한 가상 로또 추첨 프로그램 -
+<h3>💸 로또 프로그램 💸</h3>
+<p>- JAVA를 이용한 가상 로또 추첨 프로그램 -
 	<br>
 <a href="https://github.com/kimgayoung0114/LottoProgram">로또 프로그램</a></p>
 <br>
-<p>🕍 호텔관리 프로그램 🕍<br>
-	- JAVA 콘솔창을 활용한 호텔 관리 프로그램 -
+<h3>🕍 호텔관리 프로그램 🕍</h3>
+	<p>- JAVA 콘솔창을 활용한 호텔 관리 프로그램 -
 	<br>
 <a href="https://github.com/RESET-LJW/javap_hotelprogram">호텔관리 프로그램</a></p>
 <br>
