@@ -42,7 +42,7 @@
 <br>
 
 <div align=center>
-	<p>💻 Dev's Log 💻</p>
+	<h3>💻 Dev's Log 💻</h3>
 </div>
 
 <div align=center>
