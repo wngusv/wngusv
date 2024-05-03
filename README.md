@@ -68,7 +68,14 @@
 	<br>
 <a href="https://github.com/wngusv/Health-Record">활기록</a></p>
 <br>
-
+<p>💸 로또 프로그램 💸
+	<br>
+<a href="https://github.com/wngusv/Health-Record">로또 프로그램</a></p>
+<br>
+<p>🕍 호텔관리 프로그램 🕍
+	<br>
+<a href="https://github.com/wngusv/Health-Record">호텔관리 프로그램</a></p>
+<br>
 
 
 ---
