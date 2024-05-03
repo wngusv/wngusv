@@ -78,7 +78,7 @@
 <p>🕍 호텔관리 프로그램 🕍<br>
 	- JAVA 콘솔창을 활용한 호텔 관리 프로그램 -
 	<br>
-<a href="https://github.com/wngusv/Health-Record">호텔관리 프로그램</a></p>
+<a href="https://github.com/RESET-LJW/javap_hotelprogram">호텔관리 프로그램</a></p>
 <br>
 
 
