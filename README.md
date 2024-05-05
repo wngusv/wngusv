@@ -90,11 +90,9 @@
   
 
 <div style="row">
-  <a href="https://github.com/ahma0" style="flex: 1;">
   <a href="https://github.com/wngusv" style="flex: 1;">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=wngusv&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   </a>
-  <a href="https://github.com/ahma0" style="flex: 1;">
   <a href="https://github.com/wngusv" style="flex: 1;">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=wngusv&hide=c%23&layout=compact&langs_count=8&theme=radical"/>
   </a>
